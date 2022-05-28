@@ -1,0 +1,2 @@
+# Argocd
+Example project
