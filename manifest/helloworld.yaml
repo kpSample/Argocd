@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Workflow
+kind: Deployment
 metadata:
   generateName: hello-world-  # Name of this Workflow
 spec:
